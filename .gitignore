@@ -1,0 +1,23 @@
+# Ignorar o ambiente virtual
+venv/
+VENV/
+.env
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos do Streamlit
+.streamlit/
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos do sistema (macOS e Windows)
+.DS_Store
+Thumbs.db
